@@ -35,3 +35,10 @@ source("./prepare/creatEST.R")
 ## 3. icda is the cause of mortality, this is still not completed and you should push
 ## Andrew for this. 
 ## 4. For the core calculation, check "testShowCalc3" in server.R
+
+###  Update (December 10, 2014):
+### 
+###  1.  Requires new data.
+###  2.  GUI needs to be as user-friendly as possible.
+###  3.  PPT on project: https://iaos2014.gso.gov.vn/document/spor1.s1.v1.pptx
+### 
